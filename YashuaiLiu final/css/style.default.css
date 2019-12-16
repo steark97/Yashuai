@@ -1,5 +1,5 @@
 .pic {
-  cursor: url('C:/Users/11192/Desktop/YashuaiLiu final/img/cursor.ico'), auto;
+  cursor: url('../img/cursor.ico'), auto;
 }
 .text-bold {
   font-weight: 700;
